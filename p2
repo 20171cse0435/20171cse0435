@@ -1,0 +1,89 @@
+<html>
+<head>
+<title>LIST</title>
+</head>
+<body>
+
+<ul>
+<li>list1</li>
+<li>list2</li>
+</ul>
+<break>
+
+<ol type=A >
+<li>BOOk</li>
+<li>Coffee</li>
+</ol>
+<break>
+
+<DL>
+<DT>HTML</DT>
+<DD>Hyper text markup language</DD>
+<DT>DOG</DT>
+<DD>A human best friend</DD>
+</DL>
+
+<h1 align="center" style="color:blue"> SAFETY TIPS FOR</h1>
+
+<ol type="1">
+<li>Be able to swim</li>
+<li>Wear a life jacket</li>
+<li>Dont stand up or more around</li>
+
+<ul>
+<li>Hang on to the canoe</li>
+<li>Use the canoe for support</li>
+<li>swim to shore</li>
+</ul>
+
+<li>Dont overtextyourself</li>
+<li>use bow light</li>
+</ol>
+
+
+<table border=2 bgcolor="red" align="center" width="50%" cellspacing="5" cellpadding="5" bordercolor="black" >
+<caption>Food Details</caption>
+<tr>
+<th> </th>
+<th>Apple</th>
+<th>Orange</th>
+<th>Graph</th>
+</tr>
+
+<tr>
+<th>Ramesh</th>
+<th>0</th>
+<th>1</th>
+<th>1</th>
+</tr>
+
+<tr>
+<th>Suresh</th>
+<th>1</th>
+<th>1</th>
+<th>0</th>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
+
